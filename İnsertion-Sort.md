@@ -2,5 +2,7 @@
 
 Insertion Sort algoritması dizinin ilk elemanından başlayarak son elemana kadar karşılaştırma yaparak istenen değeri bulur ve ilk elemanla istenen değerin yerini değiştirir. 1 kere bu işlem yapıldıktan sonra dizinin ikinci elemanıyla aynı işlem yapılır ve bu şekilde devam eder.
 
-[22,27,16,2,18,6]-> ilk olarak birincisi kalıyor
-[22,27,16,2,18,6] 
+[22,27,16,2,18,6]-> ilk olarak birincisi kalıyor 
+[22,27,16,2,18,6]-> ilk sayı ile ikinci sayıyı kıyaslıyor birinci sayıdan daha küçük mü diye.(Değil devam ediyor)
+[22,27,16,2,18,6]-> ikinci sayı ile üçüncü sayıyı kıyaslıyor ve küçük olduğunu anlıyor ve yer değiştiriyor.
+[22,16,27,2,18,6] 
